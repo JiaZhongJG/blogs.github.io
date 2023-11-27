@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:JiaZhongJG/blogs.github.io.git
+  branch: main
